@@ -1,0 +1,1 @@
+# wazuh-n8n-ai-triage
